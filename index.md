@@ -1,5 +1,5 @@
 ---
-subject: buddy
+subject: World
 ---
 # Hello {{ subject }}
 
@@ -15,3 +15,6 @@ You can type here!
 {%- endfor %}
 
 _Built with {{ eleventy.generator }}_
+
+
+eleventy 11ty.dev
